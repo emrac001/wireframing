@@ -43,3 +43,33 @@ The **layout structure** determines the arrangement of elements on a page or scr
 ---
 
 Together, these elements form the foundation of a wireframe, ensuring clarity, usability, and a seamless user experience.
+
+
+
+---
+
+
+## Types of Wireframes
+
+Wireframes can be created at different levels of detail, depending on the stage of the design process:
+
+### Low-Fidelity Wireframes
+- **Definition:** Simple sketches or digital outlines that show the basic layout and structure of a page without much detail.  
+- **Focus:** Structure, hierarchy, and functionality rather than design details.  
+- **Usage:** Used in the early stages of design to brainstorm, explore ideas quickly, and gather feedback before investing in detailed design.  
+- **Example:** Black-and-white sketches showing where buttons, images, and text blocks will be placed.
+
+### High-Fidelity Wireframes
+- **Definition:** Detailed and polished versions of wireframes, often closer to the final product.  
+- **Focus:** Includes specific layouts, spacing, font choices, and sometimes color schemes.  
+- **Usage:** Used later in the design process when the structure is finalized, to communicate detailed design decisions to developers and stakeholders.  
+- **Example:** A clickable Figma mockup showing how a booking page looks and functions, with actual text and real UI components.
+
+---
+
+## Identifying the Wireframe Type
+
+The wireframe provided here is an **early-stage representation**, focusing mainly on layout and structure without detailed styling.  
+👉 Therefore, it qualifies as a **Low-Fidelity Wireframe**.  
+
+Low-fidelity is the best starting point because it emphasizes functionality and user flow while leaving visual design details for later.
