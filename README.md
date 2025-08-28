@@ -73,3 +73,33 @@ The wireframe provided here is an **early-stage representation**, focusing mainl
 👉 Therefore, it qualifies as a **Low-Fidelity Wireframe**.  
 
 Low-fidelity is the best starting point because it emphasizes functionality and user flow while leaving visual design details for later.
+
+
+
+---
+
+
+# Wireframing Tools
+
+There are many tools available to create wireframes, each offering unique features to support different design needs. These tools help designers quickly visualize ideas, collaborate with teams, and create both low-fidelity and high-fidelity wireframes.
+
+### Popular Wireframing Tools
+- **Balsamiq:** Focuses on low-fidelity wireframes with a simple sketch-like interface, great for brainstorming and early-stage ideas.  
+- **Adobe XD:** Provides both wireframing and prototyping features, ideal for designers already in the Adobe ecosystem.  
+- **Sketch:** Popular among Mac users, supports detailed wireframes and design system integration.  
+- **Figma:** A cloud-based tool that allows real-time collaboration and is widely used for both wireframing and prototyping.  
+
+---
+
+## Why Figma is Recommended
+Figma is one of the most popular tools for wireframing and prototyping because of its versatility and collaboration features:
+
+- **Cloud-Based Collaboration:** Multiple team members can work on the same design in real-time, similar to Google Docs.  
+- **Cross-Platform Access:** Works on Windows, macOS, Linux, and even directly in the browser without installation.  
+- **Component System:** Allows reusable design components (e.g., buttons, navigation bars) for consistency.  
+- **Prototyping Features:** Transitions wireframes into clickable prototypes without needing a separate tool.  
+- **Version Control:** Tracks design history so teams can revert to earlier versions if needed.  
+- **Community Resources:** Offers free templates, UI kits, and plugins to speed up the design process.  
+
+👉 **Why it’s useful for wireframing:**  
+Figma helps teams move from **low-fidelity wireframes** (sketch-level) to **high-fidelity prototypes** in a seamless workflow. Its collaboration features make it perfect for projects where developers, designers, and stakeholders need to stay aligned.
